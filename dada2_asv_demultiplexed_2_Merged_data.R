@@ -1,4 +1,4 @@
-# A workflow of DADA2 for Big Data (based on versions 1.4, 1.16 and 1.8)
+# A workflow of DADA2 for Big Data
 # The workflow of DADA2 was performed according to Callahan et al., (2016); Callahan (2018). 
 
 # Analysis with DADA2 for the 2_Merged_data
